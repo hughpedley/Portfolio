@@ -1,6 +1,5 @@
 Portfolio
 =========
 
-Personal portfolio, with some examples of my progress learning programming
-
-The files located here are entirely of my own creation, and will be used as a practice for learning programming and demonstrating what I have learned.
+This is a personal portfolio of several projects I've completed during my time in the University of Pittsburgh computer science major.
+This will continue to get added to as my final semester progresses.
