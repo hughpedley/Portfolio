@@ -7,7 +7,7 @@ The four algorithms for this project are:
 
 Opt – Simulate what the optimal page replacement algorithm would choose if it had perfect knowledge
 
-                Clock – Do the circular queue improvement to the second chance algorithm as discussed in class
+Clock – Do the circular queue improvement to the second chance algorithm as discussed in class
 
 NRU – Pick a not recently used page using the R and D bits.
 
