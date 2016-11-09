@@ -1,3 +1,7 @@
+# This is for exercise 3, 'easy' difficulty from /r/dailyprogrammers (write an encoder and, if possible, decoder for an alphabetical cipher).
+# Python already has an en/decoder for rot13 in its standard library, so this was pretty easy here.
+# While this is short and works, I saw one implementation in C++ that only needs one line. That's bonkers.
+
 print "Enter 'e' to encode using rot13 cipher, or 'd' to decode using rot13 cipher."
 user_input = raw_input()
 if user_input == "e":
